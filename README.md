@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @soezyxstt a.k.a adi
 - 👀 I’m interested in game and... engineering
 - 🌱 I’m currently learning web dev
+- Visit [my website here](soezyxst.me)
