@@ -2,4 +2,4 @@
 - 👀 I’m interested in robotics and engineering
 - 🌱 I’m currently learning web dev
 - Old acc [@soezyxst](https://github.com/soezyxst)
-- Visit [my website here](soezyxst.me)
+- Visit [my website here](https://soezyxst.me)
