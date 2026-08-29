@@ -7,7 +7,7 @@ Software engineer with a Mechanical Engineering background from Institut Teknolo
 **Languages:** TypeScript, JavaScript, Python, C/C++  
 **Web:** React, Next.js, Node.js, Tailwind CSS  
 **Backend & Data:** SQL, PostgreSQL, SQLite/Turso, Drizzle ORM, Prisma, tRPC  
-**Cloud & Infra:** Cloudflare Workers, R2, Durable Objects, Vectorize, Docker, GitHub Actions  
+**Cloud & Infra:** Cloudflare Workers, D1, R2, Durable Objects, Vectorize, Docker, GitHub Actions  
 **AI:** RAG, vector search, Gemini API, MCP  
 **Engineering:** ESP32, control systems, robotics, MQTT, IIoT
 
@@ -34,12 +34,12 @@ Embedded-control and web-software project combining ESP32 firmware, PID motion c
 
 [Repository](https://github.com/soezyxstt/scara-final-year-project)
 
-### ARES — Flywheel Energy Storage HMI
-Real-time condition-monitoring application for a flywheel energy storage system with MQTT telemetry, vibration diagnostics, FFT analysis, and a 3D digital twin.
+### Me-Bot — Local-First Personal Assistant
+Personal brain-dump and knowledge workspace built around instant local capture, background synchronization, AI triage, semantic memory, encrypted vault entries, Google integrations, and an agent workflow.
 
-`Next.js` `TypeScript` `MQTT` `Three.js` `Drizzle` `IIoT`
+`Next.js` `TypeScript` `Cloudflare D1/R2/Vectorize` `IndexedDB` `Gemini` `PWA`
 
-[Repository](https://github.com/soezyxstt/fess-hmi)
+[Live App](https://mebot.adihnursyam.com) · Source repository is private
 
 ### IAM ITB Website
 Full-stack alumni content platform combining a public website with Payload CMS, editorial workflows, testing, and infrastructure migration tooling.
