@@ -41,22 +41,21 @@ Personal brain-dump and knowledge workspace built around instant local capture, 
 
 [Live App](https://mebot.adihnursyam.com) · Source repository is private
 
-### IAM ITB Website
-Full-stack alumni content platform combining a public website with Payload CMS, editorial workflows, testing, and infrastructure migration tooling.
+### PEMIRA KM ITB 2024
+Official student-election web platform delivered as a team project with typed APIs, authentication, relational data, visualization, and containerized development workflows.
+
+`Next.js` `TypeScript` `tRPC` `Prisma` `NextAuth` `Docker`
+
+[Repository](https://github.com/soezyxstt/web-pemira)
+
+### IAM ITB Digital Platform
+Content-managed alumni platform with structured publishing, editorial workflows, testing, object storage, and infrastructure migration tooling.
 
 `Next.js` `Payload CMS` `PostgreSQL` `Playwright` `S3/R2`
 
 [Repository](https://github.com/soezyxstt/iam)
 
-### Mechanical Festival 2025
-Full-stack event and competition platform with public pages, authentication, participant dashboards, competition workflows, and admin tooling.
-
-`Next.js` `TypeScript` `Prisma` `Auth.js` `Cloudinary`
-
-[Repository](https://github.com/soezyxstt/m-fest)
-
 ## Links
 
 - Portfolio: [adihnursyam.me](https://adihnursyam.me)
 - LinkedIn: [Adi Haditya Nursyam](https://www.linkedin.com/in/adihnursyam/)
-- GitHub: [@soezyxstt](https://github.com/soezyxstt)
