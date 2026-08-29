@@ -11,14 +11,14 @@ Learning platform with structured course content, assessments, spaced-repetition
 
 `Next.js` `TypeScript` `Turso/SQLite` `Cloudflare` `Gemini` `RAG`
 
-[Live](https://zyxacademy.com) · Main source is private · [Public authoring MCP](https://github.com/soezyxstt/zyx-authoring-mcp)
+[Live](https://zyxacademy.com) · [Engineering case study](https://github.com/soezyxstt/zyx-academy-showcase) · [Public authoring MCP](https://github.com/soezyxstt/zyx-authoring-mcp) · Main source is private
 
 ### Me-Bot — Local-First Personal Assistant
 Personal brain-dump and knowledge workspace with instant local capture, offline synchronization, AI triage, semantic memory, encrypted vault entries, Google integrations, and an agent workflow.
 
 `Next.js` `TypeScript` `IndexedDB` `Cloudflare D1/R2/Vectorize` `Gemini` `PWA`
 
-[Live](https://mebot.adihnursyam.com) · Source is private
+[Live](https://mebot.adihnursyam.com) · [Engineering case study](https://github.com/soezyxstt/me-bot-showcase) · Source is private
 
 ### Engineering Portfolio
 Recruitment-focused portfolio with case studies across software, AI, robotics, control systems, embedded engineering, and technical leadership.
