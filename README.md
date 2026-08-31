@@ -6,6 +6,17 @@ Open to **software engineering, full-stack, backend, and product engineering** r
 
 ## Live products
 
+### IAM ITB | Alumni Digital Platform
+Production website and content platform for Ikatan Alumni Mesin Institut Teknologi Bandung.
+
+- News, activities, communities, organization pages, galleries, and sponsor content
+- Alumni business directory and job board with public submission flows
+- Payload CMS with drafts, live preview, moderation, search, SEO, and editorial tools
+
+`Next.js 15` `React 19` `TypeScript` `Payload CMS 3` `Turso/SQLite` `S3/R2`
+
+[Live](https://iamitb.org) · [Repository](https://github.com/soezyxstt/iam)
+
 ### Zyx Academy | AI Learning Platform
 Structured learning platform with assessments, spaced-repetition study, analytics, and a retrieval-backed AI tutor.
 
